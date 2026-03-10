@@ -9,6 +9,7 @@
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/naveenshaji/codex-account-switcher-releases/releases/download/v0.1.0/Codex.Account.Switcher-0.1.0.zip" length="2520462" type="application/octet-stream" sparkle:edSignature="FN59BQFO6NKTW7+Eaori/XyeG2lDZulIWbXZD5ZIEdgCRUuGspL6KHMCzNL0/W0PJ5aGUzttHYyuV8TIeloMBA=="/>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/naveenshaji/codex-account-switcher-releases/main/Codex.Account.Switcher-0.1.0.html</sparkle:releaseNotesLink>
         </item>
     </channel>
 </rss>
