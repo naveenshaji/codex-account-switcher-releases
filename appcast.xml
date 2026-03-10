@@ -4,12 +4,12 @@
         <title>Codex Account Switcher</title>
         <item>
             <title>0.1.0</title>
-            <pubDate>Tue, 10 Mar 2026 20:01:24 +0530</pubDate>
+            <pubDate>Tue, 10 Mar 2026 20:11:18 +0530</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/naveenshaji/codex-account-switcher-releases/releases/download/v0.1.0/Codex.Account.Switcher-0.1.0.zip" length="2520462" type="application/octet-stream" sparkle:edSignature="FN59BQFO6NKTW7+Eaori/XyeG2lDZulIWbXZD5ZIEdgCRUuGspL6KHMCzNL0/W0PJ5aGUzttHYyuV8TIeloMBA=="/>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/naveenshaji/codex-account-switcher-releases/main/Codex.Account.Switcher-0.1.0.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/naveenshaji/codex-account-switcher-releases/releases/download/v0.1.0/Codex.Account.Switcher-0.1.0.zip" length="2452556" type="application/octet-stream" sparkle:edSignature="tpvDf+xWUcBO3iAU3tE2jB0eu2GrpDd5zFrngMmIfHT0h36tBnIHWcDUMcGtsaKDWTe6fYtOskd5uv7YL5F1Cw=="/>
         </item>
     </channel>
 </rss>
