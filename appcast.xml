@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Codex Account Switcher</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Tue, 10 Mar 2026 20:00:06 +0530</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/naveenshaji/codex-account-switcher-releases/main/Codex%20Account%20Switcher-0.1.0.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/naveenshaji/codex-account-switcher-releases/releases/download/v0.1.0/Codex%20Account%20Switcher-0.1.0.zip" length="2520462" type="application/octet-stream" sparkle:edSignature="FN59BQFO6NKTW7+Eaori/XyeG2lDZulIWbXZD5ZIEdgCRUuGspL6KHMCzNL0/W0PJ5aGUzttHYyuV8TIeloMBA=="/>
+        </item>
+    </channel>
+</rss>
